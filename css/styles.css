@@ -32,3 +32,15 @@ box-shadow: 5px 5px 0px 0px #289FED, 10px 10px 0px 0px #5FB8FF, 15px 15px 0px 0p
 .text{
     font-size: 1rem;
 }
+
+footer{
+    width: 100%;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    color:darkblue;
+    height: 35px;
+    text-align: center;
+    padding-top: 1rem;
+
+
+}
