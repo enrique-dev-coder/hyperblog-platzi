@@ -47,3 +47,12 @@ footer{
     padding: 25px 0;
     
 }
+#post img{
+    display: block;
+   width: 300px;
+ margin-left: auto;
+ margin-right: auto;
+}
+#post figcaption{
+    text-align: center;
+ }
