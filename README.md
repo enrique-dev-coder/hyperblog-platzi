@@ -10,5 +10,6 @@ En el curso aprendemos:
 * Comandos curiosos como got clean , git stash y git rebase
 * Creado por yo mero caguamero
 * Incluye ejemplos en windows y linux
+* Este repo  es publico pueden robarselo xd
 
 **No tomes enserio este readme es mas como una broma**
