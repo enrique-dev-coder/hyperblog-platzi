@@ -8,6 +8,7 @@ En el curso aprendemos:
 * Comandos de Git
 * forks, pulls, pushs
 * Comandos curiosos como got clean , git stash y git rebase
+* Creado por yo mero caguamero
 
 
 **No tomes enserio este readme es mas como una broma**
