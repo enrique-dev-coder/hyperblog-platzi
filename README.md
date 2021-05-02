@@ -1,4 +1,4 @@
-#Hyperblog ✔✔
+# Hyperblog ✔✔
 
 Un proyecto para aprender git y giyhub para  aprender git y github
 
@@ -6,6 +6,8 @@ Un proyecto para aprender git y giyhub para  aprender git y github
 
 En el curso aprendemos:
 * Comandos de Git
-*forks, pulls, pushs
+* forks, pulls, pushs
+* Comandos curiosos como got clean , git stash y git rebase
+
 
 **No tomes enserio este readme es mas como una broma**
