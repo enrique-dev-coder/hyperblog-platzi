@@ -40,3 +40,10 @@ box-shadow: 5px 5px 0px 0px #289FED, 10px 10px 0px 0px #5FB8FF, 15px 15px 0px 0p
     width: 25px;
     vertical-align: middle;
 }
+
+footer{
+    background-color: rgb(15, 42, 92);
+    width: 100%;
+    padding: 25px 0;
+    
+}
